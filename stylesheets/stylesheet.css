@@ -59,6 +59,8 @@ a {
   background-color: #159957;
   background-image: Linear-Gradient(120deg, #155799, #159957) ;
   background-image: url(http://i.stack.imgur.com/lwBH9.jpg) }
+  background-repeat: no-repeat;
+  }
 
 @media screen and (min-width: 64em) {
   .page-header {
